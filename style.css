@@ -1,0 +1,10 @@
+body {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+  }
+  .question{
+    background-color: rgba(127, 157, 255, 0.815);
+    border-left: 5px solid rgb(0, 42, 255) ;
+    border-radius:4px ;
+  }
