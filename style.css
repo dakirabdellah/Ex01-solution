@@ -8,3 +8,7 @@ body {
     border-left: 5px solid rgb(0, 42, 255) ;
     border-radius:4px ;
   }
+  .response::first-letter{
+    font-weight: bold;
+    font-size: xx-large;
+  }
